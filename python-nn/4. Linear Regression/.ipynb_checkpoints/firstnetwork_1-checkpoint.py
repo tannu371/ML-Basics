@@ -1,6 +1,8 @@
+# Defining the slope. A common variable name for the slope is 'w'.
+# The computer needs to calculate the slope for us, but we need to start with an arbitrary value.
 w = 0.1
 
-
+# Create a function that takes an input and returns slope times input.
 def predict(i):
     return w*i
 
