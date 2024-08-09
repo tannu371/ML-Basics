@@ -1,5 +1,5 @@
 # And now it's time to take all the puzzle pieces and put them together for a final example.
-# A neural network to recognize handwritten numbers, written in plain Pythom code.
+# A neural network to recognize handwritten numbers, written in plain Python code.
 
 # The first thing to do is specify the numbers of neurons and layers.
 # And here it is. 
